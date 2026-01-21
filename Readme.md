@@ -1,1 +1,1 @@
-Olá este é um preparo para subir meu site simples para o GitHub.
+Olá esta é a introdução do Site-Simples.
