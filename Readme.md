@@ -1,1 +1,1 @@
-Olá esta é a introdução do Site-Simples.
+Aqui você encontrará o desenvolvimento do projeto Site-Simples
